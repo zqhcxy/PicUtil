@@ -1,10 +1,13 @@
-package com.github.zqhcxy.picutil;
+package com.github.zqhcxy.picutil.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.SurfaceView;
 import android.view.View;
 import android.widget.LinearLayout;
+
+import com.github.zqhcxy.picutil.R;
+import com.github.zqhcxy.picutil.util.Utils;
 
 /**
  * 后置

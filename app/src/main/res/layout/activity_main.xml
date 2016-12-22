@@ -15,5 +15,10 @@
         android:layout_below="@+id/back_btn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/video_btn"
+        android:layout_below="@+id/front_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
 </RelativeLayout>

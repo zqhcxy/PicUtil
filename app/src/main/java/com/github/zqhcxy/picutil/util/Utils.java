@@ -1,4 +1,4 @@
-package com.github.zqhcxy.picutil;
+package com.github.zqhcxy.picutil.util;
 
 import android.content.Context;
 import android.graphics.Bitmap;
